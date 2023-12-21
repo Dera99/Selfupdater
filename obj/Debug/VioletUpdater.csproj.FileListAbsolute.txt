@@ -1,0 +1,7 @@
+C:\Users\Niel-PC\Desktop\Emu patch 1332\src\VioletUpdater\bin\Debug\SelfUpdate.exe.config
+C:\Users\Niel-PC\Desktop\Emu patch 1332\src\VioletUpdater\bin\Debug\SelfUpdate.exe
+C:\Users\Niel-PC\Desktop\Emu patch 1332\src\VioletUpdater\bin\Debug\SelfUpdate.pdb
+C:\Users\Niel-PC\Desktop\Emu patch 1332\src\VioletUpdater\obj\Debug\VioletUpdater.csproj.AssemblyReference.cache
+C:\Users\Niel-PC\Desktop\Emu patch 1332\src\VioletUpdater\obj\Debug\VioletUpdater.csproj.CoreCompileInputs.cache
+C:\Users\Niel-PC\Desktop\Emu patch 1332\src\VioletUpdater\obj\Debug\SelfUpdate.exe
+C:\Users\Niel-PC\Desktop\Emu patch 1332\src\VioletUpdater\obj\Debug\SelfUpdate.pdb

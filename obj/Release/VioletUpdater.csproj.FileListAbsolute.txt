@@ -1,0 +1,20 @@
+C:\Users\Kora\Desktop\s4emu\src\VioletUpdater\bin\Release\SelfUpdate.exe.config
+C:\Users\Kora\Desktop\s4emu\src\VioletUpdater\bin\Release\SelfUpdate.exe
+C:\Users\Kora\Desktop\s4emu\src\VioletUpdater\bin\Release\SelfUpdate.pdb
+C:\Users\Kora\Desktop\s4emu\src\VioletUpdater\obj\Release\VioletUpdater.csprojAssemblyReference.cache
+C:\Users\Kora\Desktop\s4emu\src\VioletUpdater\obj\Release\SelfUpdate.exe
+C:\Users\Kora\Desktop\s4emu\src\VioletUpdater\obj\Release\SelfUpdate.pdb
+D:\My Projects\S4 league\Emulator\Emu patch 1332\src\VioletUpdater\obj\Release\SelfUpdate.exe
+D:\My Projects\S4 league\Emulator\Emu patch 1332\src\VioletUpdater\obj\Release\SelfUpdate.pdb
+D:\My Projects\S4 league\Emulator\Emu patch 1332\src\VioletUpdater\bin\Release\SelfUpdate.exe.config
+D:\My Projects\S4 league\Emulator\Emu patch 1332\src\VioletUpdater\bin\Release\SelfUpdate.exe
+D:\My Projects\S4 league\Emulator\Emu patch 1332\src\VioletUpdater\bin\Release\SelfUpdate.pdb
+D:\My Projects\S4 league\Emulator\Emu patch 1332\src\VioletUpdater\obj\Release\VioletUpdater.csproj.AssemblyReference.cache
+D:\My Projects\S4 league\Emulator\Emu patch 1332\src\VioletUpdater\obj\Release\VioletUpdater.csproj.CoreCompileInputs.cache
+C:\Users\Niel-PC\Desktop\Emu patch 1332\src\VioletUpdater\bin\Release\SelfUpdate.exe.config
+C:\Users\Niel-PC\Desktop\Emu patch 1332\src\VioletUpdater\bin\Release\SelfUpdate.exe
+C:\Users\Niel-PC\Desktop\Emu patch 1332\src\VioletUpdater\bin\Release\SelfUpdate.pdb
+C:\Users\Niel-PC\Desktop\Emu patch 1332\src\VioletUpdater\obj\Release\VioletUpdater.csproj.AssemblyReference.cache
+C:\Users\Niel-PC\Desktop\Emu patch 1332\src\VioletUpdater\obj\Release\VioletUpdater.csproj.CoreCompileInputs.cache
+C:\Users\Niel-PC\Desktop\Emu patch 1332\src\VioletUpdater\obj\Release\SelfUpdate.exe
+C:\Users\Niel-PC\Desktop\Emu patch 1332\src\VioletUpdater\obj\Release\SelfUpdate.pdb
